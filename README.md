@@ -1,6 +1,7 @@
 <!---
 {
   "id": "02a2b4e3-d265-4810-a886-fc403e7ebf86",
+  "teaches": "Number Systems: Binary, Decimal, and Hexadecimal",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-02",
